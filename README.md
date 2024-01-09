@@ -19,3 +19,9 @@ A full list of data sets used for the research, all well-known benchmark data se
 13. Boston House Price - used for three class classification for prices in the lower, middle or upper thirds (division chosen to maximize class balance)
 14. Abalone - used for binary classification for ages below or above median (division chosen to maximize class balance)
 15. Abalone - used for three class classification for ages in the lower, middle or upper thirds (division chosen to maximize class balance)
+
+The code presented in the result of our own original work, discussions with ChatGPT and documentation of the PyTorch library (as well as some limited use of the documentation of other libraries).
+
+Some of the figures in the thesis were created using code that is not presented here. However, this code was never of key importance and any piece of code that was used to generate results is available in this GitHub.
+
+My main occupation is far from coding and therefore I am completely aware that parts of this code could be rewritten "cleaner" and more efficiently :)
