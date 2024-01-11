@@ -22,6 +22,6 @@ A full list of data sets used for the research, all well-known benchmark data se
 
 The code presented in the result of our own original work, discussions with ChatGPT and documentation of the PyTorch library (as well as some limited use of the documentation of other libraries).
 
-Some of the figures in the thesis were created using code that is not presented here. However, this code was never of key importance and any piece of code that was used to generate results is available in this GitHub.
+Some of the figures in the thesis were created using code that is not presented here. However, this code was never of key importance and any piece of code that was used to generate results is available in this GitHub. Another piece of code that is not presented is the training of NN of ID prediction (as described in section 3.5 in the thesis). However, this piece of code is pretty trivial and simply includes the hyperparameter optimization, training and testing of a fully connected neural network.
 
 My main occupation is far from coding and therefore I am completely aware that parts of this code could be rewritten "cleaner" and more efficiently :)
